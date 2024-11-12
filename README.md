@@ -1,6 +1,6 @@
-# Wavelet-based stochastic model for the generation of fully non-stationary bidirectional seismic accelerograms
+# Stochastic model for the generation of fully non-stationary bidirectional seismic accelerograms
 
-Tool for generating target spectrum-compatible fully-nonstationary artificial seismic ground motions using the Continuous Wavelet Transform and a seed record. 
+Tool for generating bidirectional target spectrum-compatible fully-nonstationary artificial seismic ground motions.
 
 Further details are provided in the following document:
 
