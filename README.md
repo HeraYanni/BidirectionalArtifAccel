@@ -10,20 +10,18 @@ Earthquake Engineering and Structural Dynamics. In review.
 
 A new stochastic methodology for the generation of bidirectional horizontal components of artificial, fully non-stationary, site and spectrum-compatible seismic accelerograms through a non-separable process.
 
-Version 1.0 created by Hera Yanni, first release: 11th of November, 2024.
+Version 1.0 created by Hera Yanni, first release: 14th of November, 2024.
 
 ## How to run
 
 * Download the files and run the main MAIN_gen_single_accel.m in MATLAB
 
-* Run the MAIN_gen_single_accel.m in MATLAB online (no license is needed for MATLAB online) by clicking on this link https://matlab.mathworks.com/open/github/v1?repo=HeraYanni/WaveletGenArtifAccel,
+* Run the MAIN_gen_single_accel.m in MATLAB online (no license is needed for MATLAB online) by clicking on this link https://matlab.mathworks.com/open/github/v1?repo=HeraYanni/BidirectionalArtifAccel,
 
 or pressing this button Open in MATLAB Online 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=HeraYanni/WaveletGenArtifAccel)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=HeraYanni/BidirectionalArtifAccel)
 
-Needs to login to a MATLAB account, the working interface is this:
-
-![image](https://github.com/user-attachments/assets/b8fb67b3-2cec-4b2b-9df1-deb084f519ce)
+Needs to login to a MATLAB account.
 
 ## Main features
 
