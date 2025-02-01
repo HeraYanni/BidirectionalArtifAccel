@@ -6,7 +6,8 @@ Further details are provided in the following document:
 
 Yanni H., Fragiadakis M., and Mitseas I.P. 
 "Wavelet-based stochastic model for the generation of fully non-stationary bidirectional seismic accelerograms". 
-Earthquake Engineering and Structural Dynamics. In review.
+Earthquake Engineering and Structural Dynamics.
+https://doi.org/10.1002/eqe.4315
 
 A new stochastic methodology for the generation of bidirectional horizontal components of artificial, fully non-stationary, site and spectrum-compatible seismic accelerograms through a non-separable process.
 
